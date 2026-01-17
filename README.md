@@ -24,7 +24,7 @@ romhacking e desenvolvimento de ferramentas para modding e para sistemas em gera
 <br><br>
 Uso principalmente a linguagem <strong>C#</strong>, analisando arquivos binários,
 estruturas de dados e traduzindo jogos para PT-BR.
-  Implemento conhecimentos <strong>WEB</strong> em meu site de projetos,
+  <br>Implemento conhecimentos <strong>WEB</strong> em meu site de projetos,
   alguns projetos de gestão de ponto para Desktop e Android e de
   extração e edição de textos (substituição, formatação, alocação de memória). 
 </p>
