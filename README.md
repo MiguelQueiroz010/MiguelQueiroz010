@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Miguel Assunção Queiroz (vulgo Bit.Raiden)</h1>
+<h1>Miguel Assunção Queiroz (aka Bit.Raiden)</h1>
 <h3>Programador • Estudante • Game Modder</h3>
 
 <p>
