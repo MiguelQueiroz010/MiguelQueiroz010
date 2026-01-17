@@ -1,11 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img 
-    src="./foto.jpg"
-    width="150"
-    style="border-radius:50%; border:4px solid white;"
-  />
+  <img src="./foto.jpg" width="340" />
 </p>
 <h1>Miguel Assunção Queiroz (aka Bit.Raiden)</h1>
 <h3>Programador • Estudante • Game Modder</h3>
