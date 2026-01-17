@@ -8,7 +8,7 @@
 
 <p>
 🧠 Análise de Dados e Estruturas | ⚓ Desenvolvimento WEB | 🚀 Manipulação de Arquivos
-  📎 Edição e Geração de XML | 🐱‍👤 Scripts | 👀 Desenvolvimento Desktop | ☁️ Cloud e AWS
+  📎 Edição e Geração de XML <br>🐱‍👤 Scripts | 👀 Desenvolvimento Desktop | ☁️ Cloud e AWS
 </p>
 
 <hr width="60%"/>
@@ -19,7 +19,7 @@
 <h2>🧬 Sobre Mim</h2>
 
 <p>
-Sou um <strong>estudante de programação</strong> apaixonado por jogos clássicos,
+Sou um <strong>estudante de Análise e Desenvolvimento de Sistemas [Estácio]</strong> apaixonado por jogos clássicos,
 romhacking e desenvolvimento de ferramentas para modding e para sistemas em geral.
 <br><br>
 Uso principalmente a linguagem <strong>C#</strong>, analisando arquivos binários,
