@@ -62,7 +62,7 @@ estruturas de dados e traduzindo jogos para PT-BR.
 <h2>📫 Contato</h2>
 
 <p>
-🌐 Site: <a href="https://www.bitmundo.xyz">https://www.bitmundo.xyz</a><br>
+🌐 Site: <a href="http://www.bitmundo.xyz">https://www.bitmundo.xyz</a><br>
 📸 Instagram: <a href="https://www.instagram.com/bit.raiden">@bit.raiden</a><br>
 🐙 GitHub: <a href="https://github.com/MiguelQueiroz010">MiguelQueiroz010</a>
 </p>
