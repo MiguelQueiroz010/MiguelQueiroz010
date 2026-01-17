@@ -7,7 +7,8 @@
 <h3>Programador • Estudante • Game Modder</h3>
 
 <p>
-💻 C# | 🧠 Engenharia Reversa | 🎮 Modding & Tradução de Jogos  
+🧠 Análise de Dados e Estruturas | ⚓ Desenvolvimento WEB | 🚀 Manipulação de Arquivos
+  📎 Edição e Geração de XML | 🐱‍👤 Scripts | 👀 Desenvolvimento Desktop | ☁️ Cloud e AWS
 </p>
 
 <hr width="60%"/>
@@ -19,10 +20,13 @@
 
 <p>
 Sou um <strong>estudante de programação</strong> apaixonado por jogos clássicos,
-engenharia reversa e desenvolvimento de ferramentas para modding.
+romhacking e desenvolvimento de ferramentas para modding e para sistemas em geral.
 <br><br>
-Trabalho principalmente com <strong>C#</strong>, analisando arquivos binários,
+Uso principalmente a linguagem <strong>C#</strong>, analisando arquivos binários,
 estruturas de dados e traduzindo jogos para PT-BR.
+  Implemento conhecimentos <strong>WEB</strong> em meu site de projetos,
+  alguns projetos de gestão de ponto para Desktop e Android e de
+  extração e edição de textos (substituição, formatação, alocação de memória). 
 </p>
 
 ---
