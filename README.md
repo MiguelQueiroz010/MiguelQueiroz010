@@ -77,7 +77,6 @@ estruturas de dados e traduzindo jogos para PT-BR.
 
 <p>
 🌐 Site: <a href="http://www.bitraiden.org">https://www.bitraiden.org</a><br>
-📸 Instagram: <a href="https://www.instagram.com/bit.raiden">@bit.raiden</a><br>
 🐙 GitHub: <a href="https://github.com/MiguelQueiroz010">MiguelQueiroz010</a><br>
 🚀 Email: <a href="mailto:miguelqueiroz010@gmail.com">miguelqueiroz010@gmail.com</a>
 </p>
