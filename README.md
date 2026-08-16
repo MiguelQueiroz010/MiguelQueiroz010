@@ -4,11 +4,11 @@
   <img src="./foto.jpg" width="340" />
 </p>
 <h1>Miguel Assunção Queiroz (aka Bit.Raiden)</h1>
-<h3>Programador • Estudante • Game Modder</h3>
+<h3>Junior Developer • Estudante • Game Modder</h3>
 
 <p>
-🧠 Análise de Dados e Estruturas | ⚓ Desenvolvimento WEB | 🚀 Manipulação de Arquivos
-  📎 Edição e Geração de XML <br>🐱‍👤 Scripts | 👀 Desenvolvimento Desktop | ☁️ Cloud e AWS
+⚓ Arquitetura MIPS /RISC | 🚀 Uso de IA(helper)
+  📎 Formatação e ML <br>🐱‍👤 Scripts | 👀 Desenvolvimento Desktop | ☁️ Cloud e AWS
 </p>
 
 <hr width="60%"/>
@@ -25,8 +25,8 @@ romhacking e desenvolvimento de ferramentas para modding e para sistemas em gera
 Uso principalmente a linguagem <strong>C#</strong>, analisando arquivos binários,
 estruturas de dados e traduzindo jogos para PT-BR.
   <br>Implemento conhecimentos <strong>WEB</strong> em meu site de projetos,
-  alguns projetos de gestão de ponto para Desktop e Android e de
-  extração e edição de textos (substituição, formatação, alocação de memória). 
+  projetos de gestão de ponto para Desktop e Android e de
+  extração e localização (substituição, formatação, alocação de memória). 
 </p>
 
 ---
