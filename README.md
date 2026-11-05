@@ -1,4 +1,5 @@
 <div align="center">
+
 # Miguel Assunção Queiroz
 
 ### Desenvolvedor de Software Júnior | C# / .NET | Python | C | Web
