@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="./foto.jpg" width="340" alt="Miguel Assunção Queiroz">
-
 # Miguel Assunção Queiroz
 
 ### Desenvolvedor de Software Júnior | C# / .NET | Python | C | Web
